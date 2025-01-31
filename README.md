@@ -1,7 +1,7 @@
-# 📚 Library Management System
+## 📚 Library Management System
 A simple Java-based Library Management System that allows users to manage books by adding, updating, deleting, searching, borrowing, and returning books.
 
-## ✨ Features
+# ✨ Features
 ✅ Add new books to the library
 
 ✅ Update book details
@@ -14,14 +14,14 @@ A simple Java-based Library Management System that allows users to manage books 
 
 ✅ Display all available books
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
 ✅ Java (Core Java, OOP concepts)
 
 ✅ Collections Framework (ArrayList for book storage)
 
 ✅ Scanner (For user input handling)
 
-## 📖 Usage
+# 📖 Usage
 Once the program starts, you will see a menu with options:
 
 ✅ Add Book
